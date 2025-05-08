@@ -1,0 +1,501 @@
+Hotel_Name,Location,Hotel_Type,Room_Type,Season,Month,Num_Guests,Room_Price_LKR
+Hotel_1,Kandy,City Hotel,Suite,Low,Mar,1,33468
+Hotel_2,Anuradhapura,Resort,Standard,Shoulder,Jun,1,9496
+Hotel_3,Anuradhapura,Villa,Standard,Shoulder,Sep,3,15705
+Hotel_4,Galle,Guest House,Suite,Low,Sep,3,48003
+Hotel_5,Galle,Guest House,Deluxe,High,Aug,1,35088
+Hotel_6,Colombo,Resort,Standard,Low,Mar,2,41086
+Hotel_7,Colombo,Villa,Suite,Shoulder,Jun,4,20603
+Hotel_8,Nuwara Eliya,Villa,Deluxe,Low,Aug,3,28654
+Hotel_9,Nuwara Eliya,City Hotel,Deluxe,Shoulder,Sep,1,46189
+Hotel_10,Colombo,Boutique,Standard,Shoulder,Mar,3,24570
+Hotel_11,Colombo,City Hotel,Suite,Low,Apr,2,37051
+Hotel_12,Kandy,Guest House,Suite,High,Sep,1,23212
+Hotel_13,Anuradhapura,Resort,Suite,High,Sep,4,15918
+Hotel_14,Kandy,Guest House,Deluxe,Low,Mar,3,42539
+Hotel_15,Galle,Boutique,Deluxe,Shoulder,Jun,1,36004
+Hotel_16,Negombo,Resort,Standard,High,Jan,2,25861
+Hotel_17,Negombo,Guest House,Suite,Low,Mar,2,47043
+Hotel_18,Kandy,Villa,Standard,Shoulder,Aug,3,19554
+Hotel_19,Nuwara Eliya,Guest House,Deluxe,Shoulder,Dec,2,34104
+Hotel_20,Negombo,City Hotel,Suite,Low,Dec,3,36028
+Hotel_21,Negombo,Resort,Standard,Shoulder,Feb,4,43517
+Hotel_22,Colombo,Villa,Standard,Shoulder,Jul,3,11488
+Hotel_23,Kandy,City Hotel,Deluxe,Shoulder,Oct,4,28530
+Hotel_24,Negombo,Villa,Deluxe,Low,Apr,3,27386
+Hotel_25,Colombo,Guest House,Suite,High,May,4,28070
+Hotel_26,Nuwara Eliya,City Hotel,Suite,Shoulder,Oct,2,36114
+Hotel_27,Negombo,City Hotel,Standard,Low,Jun,1,46476
+Hotel_28,Colombo,City Hotel,Suite,High,Apr,3,27322
+Hotel_29,Anuradhapura,Resort,Deluxe,High,Apr,1,45096
+Hotel_30,Nuwara Eliya,Guest House,Standard,Low,Jun,1,8414
+Hotel_31,Nuwara Eliya,Boutique,Deluxe,Low,Jun,2,29447
+Hotel_32,Galle,Boutique,Deluxe,Shoulder,Jun,4,22947
+Hotel_33,Galle,Resort,Deluxe,Low,Aug,2,22875
+Hotel_34,Colombo,Guest House,Standard,Low,Jul,4,13834
+Hotel_35,Anuradhapura,Resort,Deluxe,Low,Apr,4,8868
+Hotel_36,Galle,City Hotel,Standard,High,Jul,2,46951
+Hotel_37,Galle,Boutique,Deluxe,Shoulder,Jul,1,11185
+Hotel_38,Negombo,Guest House,Suite,Low,Oct,4,47082
+Hotel_39,Anuradhapura,City Hotel,Deluxe,Low,Apr,2,11432
+Hotel_40,Kandy,Villa,Suite,Low,Apr,3,22341
+Hotel_41,Colombo,Resort,Deluxe,High,Aug,1,40154
+Hotel_42,Anuradhapura,Resort,Standard,Low,Feb,4,45622
+Hotel_43,Nuwara Eliya,Resort,Deluxe,Shoulder,Mar,2,12339
+Hotel_44,Kandy,City Hotel,Deluxe,Low,Dec,2,36311
+Hotel_45,Nuwara Eliya,City Hotel,Standard,Low,Mar,3,23158
+Hotel_46,Galle,City Hotel,Deluxe,Shoulder,Aug,1,29940
+Hotel_47,Nuwara Eliya,Villa,Standard,High,Jun,3,42137
+Hotel_48,Anuradhapura,Resort,Suite,Low,Jun,4,34877
+Hotel_49,Kandy,Resort,Suite,Low,Dec,1,31813
+Hotel_50,Colombo,Villa,Standard,Shoulder,Oct,3,34453
+Hotel_51,Colombo,City Hotel,Deluxe,Shoulder,Feb,4,40144
+Hotel_52,Colombo,City Hotel,Suite,Shoulder,Jul,4,42683
+Hotel_53,Anuradhapura,Guest House,Suite,Shoulder,Apr,3,8605
+Hotel_54,Nuwara Eliya,Boutique,Standard,Low,May,2,37760
+Hotel_55,Nuwara Eliya,Boutique,Deluxe,Low,Oct,2,28143
+Hotel_56,Galle,Guest House,Deluxe,Shoulder,Oct,4,32066
+Hotel_57,Kandy,City Hotel,Suite,Shoulder,Jul,4,28514
+Hotel_58,Galle,City Hotel,Suite,Shoulder,Jan,3,17812
+Hotel_59,Galle,Boutique,Deluxe,High,Jan,4,36792
+Hotel_60,Negombo,Resort,Standard,High,Jun,2,12773
+Hotel_61,Anuradhapura,City Hotel,Deluxe,Shoulder,Jan,2,20856
+Hotel_62,Nuwara Eliya,City Hotel,Standard,Low,Dec,2,36002
+Hotel_63,Colombo,City Hotel,Deluxe,Shoulder,Feb,3,46254
+Hotel_64,Nuwara Eliya,City Hotel,Deluxe,Low,Dec,4,31550
+Hotel_65,Anuradhapura,Guest House,Suite,Low,Dec,3,21791
+Hotel_66,Kandy,City Hotel,Deluxe,High,Jan,2,13171
+Hotel_67,Colombo,Guest House,Suite,Low,Jun,1,33026
+Hotel_68,Negombo,Guest House,Deluxe,Shoulder,May,3,21682
+Hotel_69,Galle,Villa,Standard,Low,Aug,2,13164
+Hotel_70,Nuwara Eliya,Boutique,Standard,High,Nov,4,32849
+Hotel_71,Negombo,City Hotel,Standard,High,Mar,1,13154
+Hotel_72,Negombo,Boutique,Standard,High,Sep,4,45501
+Hotel_73,Nuwara Eliya,Villa,Standard,High,Oct,1,38319
+Hotel_74,Negombo,Guest House,Standard,High,Oct,3,19933
+Hotel_75,Galle,Resort,Suite,High,Jan,2,11642
+Hotel_76,Colombo,Resort,Suite,High,May,4,39624
+Hotel_77,Negombo,Boutique,Deluxe,Shoulder,Apr,3,35468
+Hotel_78,Colombo,Guest House,Deluxe,Shoulder,Jul,2,10764
+Hotel_79,Colombo,City Hotel,Standard,Low,Apr,1,30573
+Hotel_80,Galle,Guest House,Standard,High,Jan,3,25412
+Hotel_81,Galle,Boutique,Deluxe,Low,Jun,2,12296
+Hotel_82,Anuradhapura,City Hotel,Standard,Shoulder,Apr,3,34995
+Hotel_83,Negombo,Villa,Deluxe,Shoulder,Jan,4,16568
+Hotel_84,Anuradhapura,Boutique,Standard,Shoulder,Dec,1,39771
+Hotel_85,Colombo,Villa,Standard,High,May,2,19921
+Hotel_86,Nuwara Eliya,Guest House,Standard,Shoulder,Feb,1,43325
+Hotel_87,Negombo,Boutique,Standard,Low,Jul,4,49877
+Hotel_88,Nuwara Eliya,Villa,Standard,High,Mar,1,23957
+Hotel_89,Negombo,Boutique,Standard,Shoulder,Oct,2,45750
+Hotel_90,Negombo,Resort,Standard,Shoulder,Jul,1,33551
+Hotel_91,Galle,City Hotel,Suite,Low,Sep,3,43261
+Hotel_92,Negombo,City Hotel,Deluxe,High,Oct,3,12247
+Hotel_93,Nuwara Eliya,City Hotel,Deluxe,High,Jun,1,26260
+Hotel_94,Anuradhapura,Guest House,Standard,Shoulder,Dec,1,34514
+Hotel_95,Colombo,Resort,Deluxe,Shoulder,Jun,1,46663
+Hotel_96,Galle,City Hotel,Suite,Shoulder,Mar,2,29945
+Hotel_97,Nuwara Eliya,Guest House,Deluxe,Shoulder,May,2,28009
+Hotel_98,Anuradhapura,Guest House,Standard,Low,Feb,4,35997
+Hotel_99,Nuwara Eliya,Guest House,Standard,High,Sep,3,13216
+Hotel_100,Nuwara Eliya,City Hotel,Standard,Low,Mar,1,33373
+Hotel_101,Anuradhapura,Villa,Standard,Shoulder,Dec,2,46256
+Hotel_102,Colombo,Villa,Deluxe,Low,Jul,4,34299
+Hotel_103,Colombo,City Hotel,Suite,Shoulder,Feb,3,20575
+Hotel_104,Galle,City Hotel,Standard,High,Oct,4,31003
+Hotel_105,Colombo,Resort,Standard,High,Jun,4,24101
+Hotel_106,Galle,Boutique,Deluxe,Low,Aug,4,48757
+Hotel_107,Nuwara Eliya,Guest House,Suite,Shoulder,Mar,2,19822
+Hotel_108,Anuradhapura,Villa,Standard,High,Feb,2,48583
+Hotel_109,Nuwara Eliya,Resort,Suite,Shoulder,Oct,1,21323
+Hotel_110,Galle,Boutique,Standard,Shoulder,Jul,1,39461
+Hotel_111,Negombo,Boutique,Standard,Shoulder,Mar,2,47634
+Hotel_112,Colombo,Villa,Standard,Shoulder,Jul,3,33481
+Hotel_113,Nuwara Eliya,Villa,Standard,High,Sep,3,13449
+Hotel_114,Negombo,Villa,Suite,Shoulder,Apr,3,18054
+Hotel_115,Anuradhapura,Guest House,Suite,Low,Apr,2,9508
+Hotel_116,Kandy,Guest House,Suite,High,Feb,3,19555
+Hotel_117,Kandy,Villa,Suite,High,Nov,3,42174
+Hotel_118,Galle,Guest House,Standard,Low,Apr,2,9342
+Hotel_119,Nuwara Eliya,Villa,Standard,High,Jun,3,40394
+Hotel_120,Kandy,Villa,Standard,Shoulder,Aug,4,14131
+Hotel_121,Colombo,Villa,Standard,High,Sep,1,16714
+Hotel_122,Colombo,Resort,Standard,Shoulder,Dec,3,19577
+Hotel_123,Anuradhapura,Resort,Standard,Shoulder,Jul,1,18045
+Hotel_124,Anuradhapura,Villa,Standard,Low,Mar,1,11448
+Hotel_125,Kandy,Boutique,Standard,High,Sep,4,11092
+Hotel_126,Nuwara Eliya,City Hotel,Suite,Low,Mar,1,38504
+Hotel_127,Kandy,Boutique,Deluxe,Shoulder,Apr,4,21371
+Hotel_128,Colombo,Guest House,Deluxe,High,Mar,1,20167
+Hotel_129,Kandy,Guest House,Suite,Shoulder,Mar,4,37723
+Hotel_130,Galle,City Hotel,Deluxe,High,Jul,2,16562
+Hotel_131,Anuradhapura,Guest House,Standard,Low,Aug,2,40498
+Hotel_132,Nuwara Eliya,Guest House,Suite,Shoulder,Nov,3,36166
+Hotel_133,Colombo,Boutique,Suite,Shoulder,Mar,3,10379
+Hotel_134,Colombo,Resort,Standard,Shoulder,Sep,2,43184
+Hotel_135,Kandy,Boutique,Deluxe,Low,Dec,4,11150
+Hotel_136,Anuradhapura,City Hotel,Suite,Low,Dec,1,19460
+Hotel_137,Nuwara Eliya,City Hotel,Suite,Low,Aug,1,16388
+Hotel_138,Kandy,Guest House,Standard,Shoulder,Mar,2,15417
+Hotel_139,Negombo,City Hotel,Standard,Low,Aug,1,32345
+Hotel_140,Anuradhapura,City Hotel,Suite,Shoulder,Aug,1,14571
+Hotel_141,Kandy,City Hotel,Suite,Low,Mar,1,11228
+Hotel_142,Galle,City Hotel,Standard,Low,Mar,4,15169
+Hotel_143,Anuradhapura,Guest House,Deluxe,Shoulder,Jul,2,22288
+Hotel_144,Anuradhapura,City Hotel,Deluxe,Shoulder,Nov,1,11714
+Hotel_145,Colombo,Boutique,Standard,Low,Aug,3,8366
+Hotel_146,Nuwara Eliya,Resort,Standard,Shoulder,Apr,4,42305
+Hotel_147,Galle,Villa,Standard,Shoulder,Nov,3,16229
+Hotel_148,Colombo,Boutique,Deluxe,Low,May,3,23511
+Hotel_149,Nuwara Eliya,Resort,Suite,High,Nov,3,30520
+Hotel_150,Kandy,Resort,Deluxe,Low,Mar,3,30601
+Hotel_151,Anuradhapura,Guest House,Suite,Shoulder,Aug,4,17042
+Hotel_152,Colombo,Resort,Standard,Low,Mar,1,9209
+Hotel_153,Colombo,Resort,Standard,Low,May,2,18976
+Hotel_154,Kandy,Villa,Suite,High,Apr,3,36239
+Hotel_155,Kandy,Villa,Deluxe,Shoulder,Apr,4,41129
+Hotel_156,Anuradhapura,Villa,Deluxe,Shoulder,Feb,3,31832
+Hotel_157,Galle,Resort,Deluxe,Shoulder,Mar,3,39868
+Hotel_158,Colombo,Boutique,Standard,Shoulder,Sep,4,25024
+Hotel_159,Negombo,City Hotel,Standard,Shoulder,Feb,2,48591
+Hotel_160,Negombo,City Hotel,Deluxe,High,Dec,1,48656
+Hotel_161,Galle,Resort,Standard,High,Jun,4,34811
+Hotel_162,Colombo,Villa,Deluxe,Low,Aug,1,34298
+Hotel_163,Anuradhapura,City Hotel,Standard,Low,Aug,4,16258
+Hotel_164,Kandy,Resort,Standard,High,Sep,2,17426
+Hotel_165,Colombo,Boutique,Deluxe,Shoulder,Jun,3,42168
+Hotel_166,Anuradhapura,Boutique,Suite,Low,May,2,37131
+Hotel_167,Negombo,Guest House,Suite,High,Feb,2,45074
+Hotel_168,Nuwara Eliya,Guest House,Suite,High,Sep,2,49237
+Hotel_169,Colombo,Resort,Standard,Shoulder,Sep,2,37617
+Hotel_170,Negombo,Villa,Deluxe,Low,Jun,2,28721
+Hotel_171,Negombo,Boutique,Standard,Low,Mar,4,36011
+Hotel_172,Colombo,City Hotel,Suite,Shoulder,Jan,4,45262
+Hotel_173,Negombo,City Hotel,Deluxe,Shoulder,Jan,4,20193
+Hotel_174,Nuwara Eliya,Guest House,Standard,Shoulder,Mar,4,33889
+Hotel_175,Nuwara Eliya,Boutique,Standard,Shoulder,Nov,1,29591
+Hotel_176,Galle,Resort,Deluxe,Low,Jul,4,48183
+Hotel_177,Nuwara Eliya,Resort,Deluxe,High,Feb,4,35261
+Hotel_178,Kandy,Boutique,Standard,Shoulder,Sep,2,35325
+Hotel_179,Kandy,City Hotel,Standard,Low,Feb,2,22086
+Hotel_180,Negombo,Boutique,Standard,High,Nov,1,32756
+Hotel_181,Nuwara Eliya,Villa,Standard,High,Nov,2,43377
+Hotel_182,Anuradhapura,City Hotel,Suite,Shoulder,May,3,31455
+Hotel_183,Galle,Resort,Suite,Low,Apr,1,43524
+Hotel_184,Colombo,City Hotel,Deluxe,High,Oct,1,37050
+Hotel_185,Galle,Villa,Suite,Low,Mar,2,26283
+Hotel_186,Colombo,Guest House,Standard,High,Feb,3,26410
+Hotel_187,Nuwara Eliya,Boutique,Deluxe,High,Jun,2,12845
+Hotel_188,Galle,Guest House,Suite,Low,Feb,4,9995
+Hotel_189,Galle,Resort,Suite,High,Jun,3,39811
+Hotel_190,Negombo,Resort,Deluxe,High,Sep,3,27045
+Hotel_191,Nuwara Eliya,Villa,Suite,High,May,3,19047
+Hotel_192,Galle,Resort,Deluxe,Shoulder,Feb,3,8107
+Hotel_193,Kandy,Resort,Suite,High,Mar,3,23437
+Hotel_194,Anuradhapura,Boutique,Standard,Low,Oct,3,32847
+Hotel_195,Colombo,Boutique,Deluxe,Shoulder,Sep,1,20164
+Hotel_196,Nuwara Eliya,City Hotel,Suite,High,May,4,15047
+Hotel_197,Galle,Boutique,Suite,High,Mar,3,20817
+Hotel_198,Galle,Villa,Suite,Low,May,1,13499
+Hotel_199,Colombo,Villa,Standard,Shoulder,Jun,2,39507
+Hotel_200,Negombo,City Hotel,Deluxe,Low,Apr,1,46181
+Hotel_201,Kandy,Villa,Deluxe,High,Aug,2,21496
+Hotel_202,Galle,Villa,Standard,High,Apr,3,21481
+Hotel_203,Galle,Resort,Suite,Low,Feb,3,20657
+Hotel_204,Nuwara Eliya,Guest House,Deluxe,High,Apr,4,27986
+Hotel_205,Negombo,Resort,Deluxe,High,May,1,21353
+Hotel_206,Anuradhapura,City Hotel,Suite,Shoulder,Dec,4,40519
+Hotel_207,Kandy,Guest House,Deluxe,High,Aug,1,36296
+Hotel_208,Anuradhapura,Resort,Deluxe,Shoulder,Sep,1,27089
+Hotel_209,Galle,Villa,Deluxe,High,Oct,3,23324
+Hotel_210,Negombo,Villa,Standard,Shoulder,May,1,15597
+Hotel_211,Nuwara Eliya,Boutique,Standard,Shoulder,Aug,1,11364
+Hotel_212,Colombo,Guest House,Deluxe,Low,May,1,38465
+Hotel_213,Negombo,City Hotel,Deluxe,High,Oct,1,21806
+Hotel_214,Colombo,City Hotel,Standard,High,Jun,1,25283
+Hotel_215,Kandy,Guest House,Deluxe,Shoulder,Sep,3,38354
+Hotel_216,Galle,Resort,Suite,High,Dec,2,48422
+Hotel_217,Kandy,City Hotel,Suite,High,Jan,2,43408
+Hotel_218,Negombo,City Hotel,Standard,High,Sep,3,22466
+Hotel_219,Nuwara Eliya,Guest House,Suite,High,Nov,2,12661
+Hotel_220,Nuwara Eliya,Resort,Suite,Shoulder,Oct,2,49461
+Hotel_221,Anuradhapura,Villa,Deluxe,High,Nov,2,14100
+Hotel_222,Negombo,City Hotel,Standard,Shoulder,Apr,4,34822
+Hotel_223,Negombo,Boutique,Standard,High,Aug,3,20809
+Hotel_224,Anuradhapura,Resort,Deluxe,High,May,3,40058
+Hotel_225,Nuwara Eliya,Guest House,Deluxe,Shoulder,Feb,1,13894
+Hotel_226,Kandy,Villa,Deluxe,Low,Aug,3,12418
+Hotel_227,Anuradhapura,Guest House,Deluxe,Low,Feb,2,14281
+Hotel_228,Negombo,City Hotel,Suite,Shoulder,Jan,4,46282
+Hotel_229,Kandy,Villa,Standard,High,Jul,1,29642
+Hotel_230,Kandy,Villa,Standard,Low,Jul,2,37413
+Hotel_231,Negombo,Resort,Suite,High,Nov,4,28855
+Hotel_232,Colombo,Villa,Standard,High,Dec,2,44714
+Hotel_233,Nuwara Eliya,Resort,Standard,Low,Aug,4,28108
+Hotel_234,Kandy,Boutique,Deluxe,High,Feb,2,16339
+Hotel_235,Galle,Resort,Suite,Low,Oct,1,30333
+Hotel_236,Galle,Boutique,Deluxe,Shoulder,Mar,3,38973
+Hotel_237,Nuwara Eliya,City Hotel,Deluxe,Low,Jun,3,43906
+Hotel_238,Colombo,Guest House,Suite,Shoulder,Sep,3,45791
+Hotel_239,Negombo,Guest House,Suite,Low,May,2,16208
+Hotel_240,Nuwara Eliya,Villa,Suite,High,Sep,3,15786
+Hotel_241,Galle,Villa,Deluxe,Low,Dec,2,40799
+Hotel_242,Nuwara Eliya,City Hotel,Standard,Low,Mar,4,44909
+Hotel_243,Nuwara Eliya,Guest House,Standard,Low,Nov,2,49184
+Hotel_244,Nuwara Eliya,City Hotel,Deluxe,High,Jul,4,11174
+Hotel_245,Nuwara Eliya,City Hotel,Deluxe,High,May,3,20154
+Hotel_246,Colombo,Boutique,Standard,Low,Oct,3,45369
+Hotel_247,Anuradhapura,Guest House,Standard,Shoulder,Jan,1,29731
+Hotel_248,Nuwara Eliya,Resort,Deluxe,High,Aug,1,28016
+Hotel_249,Colombo,Resort,Deluxe,High,Jul,2,41880
+Hotel_250,Colombo,Resort,Deluxe,High,Jun,1,16085
+Hotel_251,Galle,City Hotel,Deluxe,Low,Mar,4,33201
+Hotel_252,Anuradhapura,City Hotel,Standard,High,Aug,1,13004
+Hotel_253,Nuwara Eliya,Boutique,Standard,Shoulder,Mar,1,23655
+Hotel_254,Colombo,Villa,Standard,High,May,4,41719
+Hotel_255,Kandy,Guest House,Standard,Shoulder,Dec,4,29162
+Hotel_256,Nuwara Eliya,Villa,Suite,Shoulder,Jul,3,42730
+Hotel_257,Anuradhapura,Guest House,Suite,Low,Jun,4,22248
+Hotel_258,Kandy,Boutique,Deluxe,High,Feb,1,45771
+Hotel_259,Anuradhapura,Resort,Standard,High,May,2,8834
+Hotel_260,Kandy,Guest House,Deluxe,Shoulder,Jul,1,9779
+Hotel_261,Anuradhapura,Resort,Suite,Low,Oct,4,32475
+Hotel_262,Kandy,Villa,Standard,Shoulder,Oct,4,36665
+Hotel_263,Nuwara Eliya,City Hotel,Standard,Low,Jan,4,29056
+Hotel_264,Negombo,Resort,Suite,Shoulder,Nov,4,19152
+Hotel_265,Galle,Resort,Standard,Shoulder,Jul,1,19720
+Hotel_266,Colombo,Resort,Standard,Shoulder,Jul,1,21627
+Hotel_267,Anuradhapura,Resort,Deluxe,Shoulder,Oct,1,30293
+Hotel_268,Anuradhapura,Resort,Suite,High,Jun,4,32350
+Hotel_269,Galle,City Hotel,Suite,High,May,3,36854
+Hotel_270,Galle,Guest House,Standard,Shoulder,Nov,3,18039
+Hotel_271,Colombo,Guest House,Standard,High,Feb,3,44097
+Hotel_272,Galle,Villa,Standard,Low,Jul,4,37968
+Hotel_273,Negombo,Guest House,Standard,High,Feb,2,15927
+Hotel_274,Galle,Villa,Suite,Shoulder,Jul,3,22809
+Hotel_275,Nuwara Eliya,City Hotel,Deluxe,High,Mar,3,49473
+Hotel_276,Galle,Boutique,Suite,Shoulder,Mar,4,42225
+Hotel_277,Negombo,City Hotel,Deluxe,Low,May,1,22715
+Hotel_278,Anuradhapura,Boutique,Suite,High,Jul,4,33675
+Hotel_279,Anuradhapura,Guest House,Standard,Low,Apr,4,47450
+Hotel_280,Negombo,Guest House,Suite,Shoulder,Mar,4,33287
+Hotel_281,Galle,Resort,Standard,Shoulder,Apr,1,14862
+Hotel_282,Nuwara Eliya,Guest House,Standard,Shoulder,Apr,1,16688
+Hotel_283,Negombo,Guest House,Deluxe,High,May,4,29236
+Hotel_284,Galle,City Hotel,Standard,Low,Feb,2,35094
+Hotel_285,Nuwara Eliya,Resort,Suite,Low,Nov,2,49932
+Hotel_286,Galle,Boutique,Deluxe,Shoulder,Dec,2,44134
+Hotel_287,Colombo,Resort,Standard,High,Sep,3,15398
+Hotel_288,Kandy,Guest House,Suite,High,Dec,2,30379
+Hotel_289,Anuradhapura,City Hotel,Deluxe,Low,Mar,4,19590
+Hotel_290,Anuradhapura,Guest House,Suite,High,Nov,4,8225
+Hotel_291,Galle,City Hotel,Deluxe,High,Sep,3,38901
+Hotel_292,Galle,Villa,Deluxe,Shoulder,Jan,4,15985
+Hotel_293,Nuwara Eliya,Guest House,Deluxe,Low,Apr,3,45972
+Hotel_294,Galle,Boutique,Deluxe,High,Nov,4,37052
+Hotel_295,Kandy,Villa,Suite,High,Apr,4,36366
+Hotel_296,Nuwara Eliya,Resort,Standard,Shoulder,Aug,4,48020
+Hotel_297,Colombo,Boutique,Standard,High,Dec,3,21816
+Hotel_298,Colombo,City Hotel,Standard,High,Mar,4,26448
+Hotel_299,Anuradhapura,Guest House,Standard,Low,Jun,4,48084
+Hotel_300,Galle,Boutique,Suite,Low,Oct,4,40147
+Hotel_301,Galle,Boutique,Standard,Shoulder,Mar,3,21752
+Hotel_302,Anuradhapura,Villa,Deluxe,Low,May,4,47766
+Hotel_303,Galle,Resort,Standard,High,Oct,3,49964
+Hotel_304,Negombo,Resort,Suite,Shoulder,Apr,4,15112
+Hotel_305,Kandy,Boutique,Deluxe,Low,Jun,2,13345
+Hotel_306,Nuwara Eliya,Resort,Standard,Low,Jun,4,27170
+Hotel_307,Nuwara Eliya,Boutique,Deluxe,High,Oct,4,12219
+Hotel_308,Anuradhapura,Guest House,Standard,Shoulder,Jul,1,34405
+Hotel_309,Kandy,City Hotel,Suite,Shoulder,Sep,1,15606
+Hotel_310,Nuwara Eliya,City Hotel,Standard,High,Oct,1,48393
+Hotel_311,Kandy,Villa,Standard,High,Nov,1,15566
+Hotel_312,Kandy,Boutique,Suite,Shoulder,Jul,1,45846
+Hotel_313,Anuradhapura,Boutique,Suite,Shoulder,Apr,1,35166
+Hotel_314,Galle,Guest House,Standard,High,May,2,13453
+Hotel_315,Anuradhapura,Resort,Suite,High,May,2,24012
+Hotel_316,Nuwara Eliya,Villa,Deluxe,Low,May,2,25196
+Hotel_317,Kandy,Guest House,Suite,High,Sep,4,30504
+Hotel_318,Galle,Villa,Suite,Low,May,4,26373
+Hotel_319,Nuwara Eliya,Guest House,Deluxe,High,Sep,4,42755
+Hotel_320,Colombo,Guest House,Standard,High,Jan,4,22875
+Hotel_321,Anuradhapura,Boutique,Suite,High,Mar,1,38290
+Hotel_322,Kandy,City Hotel,Deluxe,Low,Jan,1,33027
+Hotel_323,Anuradhapura,City Hotel,Suite,High,Feb,3,30944
+Hotel_324,Nuwara Eliya,Villa,Suite,Shoulder,Aug,3,49031
+Hotel_325,Kandy,Villa,Standard,High,May,4,45157
+Hotel_326,Anuradhapura,Resort,Deluxe,Shoulder,Oct,4,45604
+Hotel_327,Nuwara Eliya,Guest House,Standard,Shoulder,Sep,1,37747
+Hotel_328,Nuwara Eliya,Villa,Suite,High,May,1,17956
+Hotel_329,Anuradhapura,Boutique,Deluxe,Low,Oct,2,15680
+Hotel_330,Nuwara Eliya,Villa,Deluxe,High,May,1,36480
+Hotel_331,Anuradhapura,Villa,Standard,High,May,1,42517
+Hotel_332,Nuwara Eliya,Resort,Standard,Low,May,1,21597
+Hotel_333,Kandy,City Hotel,Deluxe,Shoulder,Sep,3,10046
+Hotel_334,Colombo,Villa,Standard,High,Dec,3,23401
+Hotel_335,Galle,City Hotel,Suite,High,Feb,2,17877
+Hotel_336,Galle,Villa,Standard,High,Feb,2,23043
+Hotel_337,Nuwara Eliya,City Hotel,Standard,High,Jan,1,35478
+Hotel_338,Galle,Guest House,Suite,Shoulder,Sep,3,30291
+Hotel_339,Anuradhapura,Guest House,Standard,Low,Oct,3,49389
+Hotel_340,Kandy,City Hotel,Standard,High,Jul,2,37221
+Hotel_341,Colombo,City Hotel,Standard,Shoulder,May,3,42603
+Hotel_342,Negombo,Resort,Standard,High,Feb,2,31431
+Hotel_343,Colombo,Villa,Standard,High,Dec,3,40861
+Hotel_344,Negombo,Boutique,Deluxe,High,Dec,2,24184
+Hotel_345,Kandy,Guest House,Standard,Low,Aug,2,24344
+Hotel_346,Colombo,Guest House,Standard,Low,Apr,2,44087
+Hotel_347,Negombo,Villa,Standard,Shoulder,May,3,41655
+Hotel_348,Colombo,Villa,Standard,Low,Aug,2,29215
+Hotel_349,Anuradhapura,Resort,Suite,Shoulder,Oct,1,14829
+Hotel_350,Negombo,Resort,Deluxe,Low,Sep,3,36604
+Hotel_351,Anuradhapura,Boutique,Suite,Shoulder,Mar,4,45858
+Hotel_352,Anuradhapura,Boutique,Deluxe,High,Feb,1,11241
+Hotel_353,Negombo,City Hotel,Suite,High,Mar,1,23663
+Hotel_354,Kandy,City Hotel,Standard,High,Nov,2,33515
+Hotel_355,Colombo,Guest House,Deluxe,Shoulder,Oct,4,19264
+Hotel_356,Anuradhapura,Villa,Deluxe,High,Nov,3,14669
+Hotel_357,Nuwara Eliya,Villa,Standard,High,Aug,1,14850
+Hotel_358,Anuradhapura,Villa,Deluxe,High,Aug,2,49028
+Hotel_359,Negombo,Guest House,Suite,Low,May,2,15363
+Hotel_360,Negombo,Boutique,Deluxe,High,Oct,3,23637
+Hotel_361,Nuwara Eliya,Boutique,Standard,Low,Oct,2,43263
+Hotel_362,Negombo,Boutique,Suite,High,Feb,4,25687
+Hotel_363,Nuwara Eliya,City Hotel,Deluxe,Shoulder,Dec,4,35545
+Hotel_364,Galle,Resort,Deluxe,Low,Aug,2,48603
+Hotel_365,Negombo,Boutique,Deluxe,Low,Dec,1,8936
+Hotel_366,Anuradhapura,Boutique,Suite,Shoulder,Nov,2,41555
+Hotel_367,Nuwara Eliya,Guest House,Standard,High,Sep,3,23070
+Hotel_368,Galle,Villa,Standard,Shoulder,Oct,4,43256
+Hotel_369,Colombo,Resort,Suite,Shoulder,Dec,4,34684
+Hotel_370,Nuwara Eliya,Guest House,Suite,Low,Jan,4,11293
+Hotel_371,Kandy,Guest House,Deluxe,Shoulder,May,3,12520
+Hotel_372,Anuradhapura,Resort,Deluxe,High,Aug,1,18389
+Hotel_373,Kandy,Boutique,Suite,Low,Oct,1,26553
+Hotel_374,Galle,Boutique,Deluxe,Low,Mar,3,24971
+Hotel_375,Negombo,Resort,Standard,High,Nov,4,9085
+Hotel_376,Kandy,Villa,Standard,High,Dec,4,34410
+Hotel_377,Negombo,City Hotel,Standard,Shoulder,Dec,3,45625
+Hotel_378,Kandy,City Hotel,Deluxe,Low,Jan,2,29615
+Hotel_379,Colombo,Guest House,Suite,Shoulder,May,2,20378
+Hotel_380,Negombo,Resort,Standard,High,Nov,1,34171
+Hotel_381,Anuradhapura,City Hotel,Suite,High,Apr,2,31573
+Hotel_382,Colombo,City Hotel,Standard,Shoulder,May,4,39885
+Hotel_383,Kandy,Boutique,Deluxe,High,Jul,3,31003
+Hotel_384,Kandy,City Hotel,Deluxe,High,Feb,1,22083
+Hotel_385,Galle,City Hotel,Suite,High,Jul,2,28842
+Hotel_386,Galle,Boutique,Suite,Shoulder,Sep,1,10950
+Hotel_387,Anuradhapura,Guest House,Standard,High,Dec,1,19915
+Hotel_388,Nuwara Eliya,Villa,Standard,High,May,1,8544
+Hotel_389,Negombo,Boutique,Deluxe,High,Oct,4,37002
+Hotel_390,Negombo,Villa,Deluxe,Shoulder,May,1,18934
+Hotel_391,Galle,Boutique,Deluxe,Low,Mar,1,36178
+Hotel_392,Nuwara Eliya,Boutique,Suite,Low,Aug,1,23963
+Hotel_393,Galle,Resort,Standard,Shoulder,Jun,1,21322
+Hotel_394,Kandy,Villa,Standard,High,Feb,4,34383
+Hotel_395,Galle,Villa,Suite,Low,Feb,4,48391
+Hotel_396,Negombo,Guest House,Suite,High,Sep,2,8276
+Hotel_397,Negombo,Villa,Suite,High,May,3,18337
+Hotel_398,Kandy,Boutique,Suite,Shoulder,Jun,3,29916
+Hotel_399,Colombo,Villa,Standard,Low,Apr,3,10186
+Hotel_400,Kandy,Boutique,Deluxe,High,Sep,3,11594
+Hotel_401,Negombo,City Hotel,Deluxe,High,Feb,4,20668
+Hotel_402,Nuwara Eliya,City Hotel,Standard,Low,Sep,2,22162
+Hotel_403,Kandy,Resort,Suite,High,Apr,2,47112
+Hotel_404,Galle,Resort,Suite,Low,Aug,1,31786
+Hotel_405,Kandy,Boutique,Suite,Low,Sep,4,31520
+Hotel_406,Colombo,Boutique,Suite,Low,Oct,2,36386
+Hotel_407,Galle,City Hotel,Suite,High,Nov,4,19464
+Hotel_408,Galle,Villa,Suite,High,Sep,1,26244
+Hotel_409,Colombo,Villa,Standard,High,Jul,4,25308
+Hotel_410,Negombo,Boutique,Standard,Low,Aug,4,48933
+Hotel_411,Galle,Guest House,Deluxe,High,Nov,3,38249
+Hotel_412,Colombo,City Hotel,Suite,Low,Apr,1,35281
+Hotel_413,Galle,Resort,Standard,Low,Jun,2,26245
+Hotel_414,Negombo,Villa,Standard,Shoulder,Mar,1,46482
+Hotel_415,Galle,Guest House,Suite,High,Dec,4,24394
+Hotel_416,Nuwara Eliya,Villa,Suite,Low,Feb,3,34766
+Hotel_417,Kandy,Guest House,Standard,Low,Aug,1,47072
+Hotel_418,Anuradhapura,City Hotel,Deluxe,Shoulder,Jun,2,21598
+Hotel_419,Kandy,Resort,Deluxe,Low,Jun,4,23459
+Hotel_420,Colombo,City Hotel,Deluxe,High,Jun,3,17473
+Hotel_421,Kandy,Boutique,Suite,High,Apr,3,15850
+Hotel_422,Kandy,City Hotel,Standard,Shoulder,Apr,4,23607
+Hotel_423,Anuradhapura,Boutique,Standard,Low,Oct,4,38865
+Hotel_424,Kandy,Guest House,Standard,Low,Aug,2,44622
+Hotel_425,Anuradhapura,Resort,Suite,Shoulder,May,2,42292
+Hotel_426,Galle,Boutique,Standard,High,Apr,3,27666
+Hotel_427,Galle,Guest House,Deluxe,High,Oct,1,33484
+Hotel_428,Nuwara Eliya,Villa,Deluxe,Low,Aug,2,32750
+Hotel_429,Nuwara Eliya,Guest House,Suite,Low,Aug,1,48952
+Hotel_430,Negombo,Guest House,Deluxe,High,Dec,4,16608
+Hotel_431,Colombo,Boutique,Deluxe,High,Oct,1,48356
+Hotel_432,Anuradhapura,Guest House,Deluxe,High,Dec,3,10469
+Hotel_433,Colombo,City Hotel,Suite,Shoulder,Jan,3,46354
+Hotel_434,Colombo,Boutique,Suite,High,Nov,3,13737
+Hotel_435,Colombo,City Hotel,Standard,Low,Mar,1,20657
+Hotel_436,Galle,City Hotel,Suite,Low,Jul,3,36483
+Hotel_437,Colombo,Villa,Suite,Low,Oct,4,23062
+Hotel_438,Galle,Boutique,Standard,High,Feb,1,44594
+Hotel_439,Nuwara Eliya,City Hotel,Suite,High,Jul,1,48988
+Hotel_440,Colombo,Resort,Standard,Low,Sep,3,13449
+Hotel_441,Galle,Guest House,Suite,Shoulder,Oct,4,45592
+Hotel_442,Anuradhapura,Guest House,Suite,High,Jul,2,27137
+Hotel_443,Kandy,Boutique,Deluxe,Low,May,1,11185
+Hotel_444,Negombo,City Hotel,Deluxe,Shoulder,Oct,3,10593
+Hotel_445,Galle,City Hotel,Deluxe,Low,Jul,4,33129
+Hotel_446,Colombo,Villa,Deluxe,Low,Oct,4,39953
+Hotel_447,Galle,City Hotel,Suite,Shoulder,Oct,3,20660
+Hotel_448,Nuwara Eliya,Guest House,Standard,High,Jan,1,30093
+Hotel_449,Anuradhapura,City Hotel,Deluxe,High,Jul,2,22324
+Hotel_450,Negombo,Resort,Standard,Shoulder,Feb,1,40473
+Hotel_451,Nuwara Eliya,Boutique,Deluxe,Low,Jan,2,9216
+Hotel_452,Nuwara Eliya,Guest House,Suite,Low,Apr,2,36805
+Hotel_453,Nuwara Eliya,Resort,Standard,High,Mar,4,20986
+Hotel_454,Negombo,Villa,Suite,Shoulder,Feb,3,31058
+Hotel_455,Colombo,Guest House,Deluxe,Shoulder,Mar,1,10935
+Hotel_456,Galle,Guest House,Deluxe,Shoulder,Dec,2,37157
+Hotel_457,Anuradhapura,Guest House,Deluxe,High,Mar,4,19638
+Hotel_458,Anuradhapura,City Hotel,Standard,High,Apr,3,44790
+Hotel_459,Anuradhapura,City Hotel,Standard,Low,Nov,2,9348
+Hotel_460,Galle,Villa,Deluxe,Shoulder,Nov,3,36074
+Hotel_461,Negombo,Boutique,Standard,Shoulder,Mar,3,35349
+Hotel_462,Nuwara Eliya,Boutique,Deluxe,High,Sep,4,27700
+Hotel_463,Nuwara Eliya,Guest House,Standard,Shoulder,Feb,4,16906
+Hotel_464,Negombo,City Hotel,Suite,Low,Jul,4,36889
+Hotel_465,Galle,Resort,Deluxe,Low,Oct,3,42161
+Hotel_466,Nuwara Eliya,Resort,Standard,Shoulder,Oct,3,14981
+Hotel_467,Nuwara Eliya,City Hotel,Suite,High,Dec,1,44984
+Hotel_468,Colombo,Guest House,Deluxe,Shoulder,May,2,23353
+Hotel_469,Colombo,Guest House,Suite,Low,Feb,4,49388
+Hotel_470,Galle,Villa,Deluxe,Low,Jul,1,12224
+Hotel_471,Anuradhapura,Resort,Suite,Low,Apr,3,18661
+Hotel_472,Kandy,Villa,Suite,Shoulder,Apr,1,35010
+Hotel_473,Nuwara Eliya,Boutique,Suite,Shoulder,Mar,1,27601
+Hotel_474,Anuradhapura,Resort,Standard,Shoulder,Jan,3,41463
+Hotel_475,Colombo,Guest House,Suite,High,Mar,2,49396
+Hotel_476,Nuwara Eliya,Boutique,Standard,Low,Aug,3,22691
+Hotel_477,Nuwara Eliya,City Hotel,Deluxe,High,Apr,1,29238
+Hotel_478,Anuradhapura,Resort,Standard,High,Oct,1,47295
+Hotel_479,Colombo,Guest House,Standard,Shoulder,Apr,4,13149
+Hotel_480,Colombo,Guest House,Deluxe,Low,Apr,1,46490
+Hotel_481,Negombo,Resort,Suite,Shoulder,Apr,2,32214
+Hotel_482,Anuradhapura,Guest House,Suite,High,Sep,1,38041
+Hotel_483,Galle,Villa,Standard,Shoulder,Jun,3,42325
+Hotel_484,Galle,Villa,Suite,High,Jul,1,38482
+Hotel_485,Colombo,Villa,Standard,Shoulder,Aug,2,18699
+Hotel_486,Nuwara Eliya,Boutique,Deluxe,Low,Feb,1,47257
+Hotel_487,Galle,Boutique,Standard,Low,Sep,4,24555
+Hotel_488,Negombo,Boutique,Suite,Shoulder,Mar,4,17786
+Hotel_489,Negombo,Villa,Standard,Shoulder,Apr,3,21516
+Hotel_490,Nuwara Eliya,Villa,Suite,Low,Sep,1,30083
+Hotel_491,Galle,Boutique,Suite,High,Jun,3,39572
+Hotel_492,Nuwara Eliya,Resort,Suite,Shoulder,Dec,1,25823
+Hotel_493,Kandy,Villa,Standard,Low,Sep,3,10239
+Hotel_494,Anuradhapura,Boutique,Standard,High,Jun,3,10233
+Hotel_495,Kandy,City Hotel,Standard,High,Nov,3,45937
+Hotel_496,Colombo,Villa,Standard,High,Aug,1,21668
+Hotel_497,Nuwara Eliya,Villa,Suite,Shoulder,Nov,2,17740
+Hotel_498,Galle,Guest House,Suite,Low,May,1,10049
+Hotel_499,Colombo,Resort,Deluxe,Low,Mar,2,38194
+Hotel_500,Negombo,City Hotel,Suite,Shoulder,Oct,1,13794
